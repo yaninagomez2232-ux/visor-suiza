@@ -1,0 +1,1 @@
+var json_BernaCapitalSuiza_5 = {"type":"FeatureCollection","name":"BernaCapitalSuiza_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"bfs_nummer":351.0,"ciudad":"Bern","poblacion":138562.0},"geometry":{"type":"Point","coordinates":[7.420684808917837,46.95456031815803]}}]}
